@@ -1,6 +1,6 @@
 # `<video>` snapshot bookmarklet
 
-> Take a snapshot at the current time in a <video>.
+> Take a snapshot at the current time in a \<video\>.
 
 Image shows just the video frame at the size it's displayed, without any overlays.
 
